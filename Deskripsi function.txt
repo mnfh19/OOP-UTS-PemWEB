@@ -1,0 +1,13 @@
+Function barang
+fungsinya menambahkan barang baru yang nantinya akan disewakan / dijual oleh user
+
+Function beli
+fungsinya menambahkan status beli dari barang yang sudah di inputkan dengan cara menambahkan ke tabel beli dan menginputkan 
+beberapa data ke dalamnya
+
+function sewa
+fungsinya menambahkan status sewa dari barang yang sudah di inputkan dengan cara menambahkan ke tabel sewa dan menginputkan 
+beberapa data ke dalamnya
+
+function get Sewa
+fungsinya mengambil barang yang disewakan oleh user yang sudah login
